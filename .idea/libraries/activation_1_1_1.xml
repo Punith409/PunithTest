@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="activation-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/activation-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/client-combined-3.141.59.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-codec-1.13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-compress-1.19.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/gavroche.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/jaxb-api-2.3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/jaxb-core-2.3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/jaxb-impl-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/jcommander-1.78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/log4j-1.2.17.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/log4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-examples-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-excelant-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/poi-scratchpad-4.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/testng-6.14.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/xmlbeans-3.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../SelemiumWithJenkins/lib/client-combined-3.141.59-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
